@@ -1,0 +1,10 @@
+﻿node_modules
+.next
+out
+.npm-cache
+.uv-cache
+tmp
+test-results
+playwright-report
+package-lock.json
+public/images/placeholders

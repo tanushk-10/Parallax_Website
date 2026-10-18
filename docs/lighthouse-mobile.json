@@ -1,0 +1,37 @@
+{
+  "checkedOn": "2026-10-18",
+  "url": "http://localhost:3000/",
+  "lighthouseVersion": "13.5.0",
+  "formFactor": "mobile",
+  "scores": {
+    "performance": 93,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "metrics": {
+    "first-contentful-paint": {
+      "value": 1064.9184,
+      "display": "1.1 s"
+    },
+    "largest-contentful-paint": {
+      "value": 2932.4456,
+      "display": "2.9 s"
+    },
+    "total-blocking-time": {
+      "value": 109,
+      "display": "110 ms"
+    },
+    "cumulative-layout-shift": {
+      "value": 0.000138833607477928,
+      "display": "0"
+    },
+    "speed-index": {
+      "value": 3706.6352554966775,
+      "display": "3.7 s"
+    }
+  },
+  "mobileJavaScriptTransferKiB": 217.2,
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+  "note": "Local production static export with Lighthouse mobile throttling. Desktop WebGL is separately deferred and is not loaded on touch devices. Hosted network results can vary."
+}
